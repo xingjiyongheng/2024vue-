@@ -1,2 +1,3 @@
 # 2024vue-
 vue3的实训项目
+所有的项目都是少一个node_modules,这个是因为网站限制文件大小不能超过25m，所以只能把这个文件移除掉，可以解压完项目之后在终端执行npm install下载node_modules之后执行npm run serve
